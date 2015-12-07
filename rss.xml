@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Quantum Dojo]]></title>
-        <description><![CDATA[The Quantum Dojo]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Conscious Leadership Evolution - Rebel Against Mediocrity]]></title>
+        <description><![CDATA[Conscious Leadership Evolution - Rebel Against Mediocrity]]></description>
+        <link>https://thegrid.ai/the-quantum-dojo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Dec 2015 18:17:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 07 Dec 2015 18:26:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-quantum-dojo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Conscious Leadership Series - Minding your P’s & Q’s ]]></title>
             <description><![CDATA[<article><h1>Conscious Leadership Series - Minding your P’s & Q’s </h1><p>Ultimately, most people want to make a difference, don't you? </p></article>]]></description>
-            <link>undefinedconscious-leadership-series-minding-your-ps-and-qs/index.html</link>
+            <link>https://thegrid.ai/the-quantum-dojo/conscious-leadership-series-minding-your-ps-and-qs/index.html</link>
             <guid isPermaLink="false">5cf4a099-04fd-4f70-9e7b-7f3d1e45433a</guid>
             <pubDate>Mon, 07 Dec 2015 18:16:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
+            <link>https://thegrid.ai/the-quantum-dojo/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">d7062c78-68cd-48e6-a097-579d78cad03c</guid>
+            <pubDate>Mon, 07 Dec 2015 18:26:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
