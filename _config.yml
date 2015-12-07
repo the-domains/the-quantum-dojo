@@ -1,0 +1,28 @@
+name: The Quantum Dojo
+favicon: null
+layout_spectrum: 0.30257140123285353
+typography_spectrum: 0.8337187892757356
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.46202065143734217
+  lightness: 0.46106038987636566
+  saturation: 0.07034600106999278
+  rhythmicContrast: 0.50652214884758
+purpose: []
