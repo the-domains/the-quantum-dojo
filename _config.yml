@@ -1,7 +1,7 @@
 name: The Quantum Dojo
 favicon: null
-layout_spectrum: 0.30257140123285353
-typography_spectrum: 0.8337187892757356
+layout_spectrum: 0.97949
+typography_spectrum: 0.25098
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.46202065143734217
-  lightness: 0.46106038987636566
-  saturation: 0.07034600106999278
-  rhythmicContrast: 0.50652214884758
+    - '#ffffff'
+    - '#000000'
+    - '#9f9f9f'
+    - '#606060'
+    - '#dd4240'
+  brandStrength: 1
+  lightness: 0.6875
+  saturation: 0.1875
+  rhythmicContrast: 0.5
 purpose: []
