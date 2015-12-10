@@ -1,6 +1,6 @@
 name: The Quantum Dojo
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.99902
 typography_spectrum: 0.25098
 title: Conscious Leadership Evolution - Rebel Against Mediocrity
 cta:
@@ -22,8 +22,8 @@ color:
     - '#9f9f9f'
     - '#606060'
     - '#dd4240'
-  brandStrength: 1
-  lightness: 1
+  brandStrength: 0.5
+  lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.25
 purpose: []
