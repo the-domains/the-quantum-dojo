@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Conscious Leadership Evolution - Rebel Against Mediocrity]]></title>
         <description><![CDATA[Conscious Leadership Evolution - Rebel Against Mediocrity]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-quantum-dojo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Dec 2015 10:28:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 10 Dec 2015 10:36:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-quantum-dojo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://media.licdn.com/mpr/mpr/jc/AAEAAQAAAAAAAARxAAAAJGUyZDBkNTE3LTRlNzUtNDM2OC04ZDY3LTkwMmJiYzU2MTcxYg.jpg">]]></description>
+            <link>https://thegrid.ai/the-quantum-dojo/a400409d-c128-455c-9a3f-c8869610aa3d/index.html</link>
+            <guid isPermaLink="false">a400409d-c128-455c-9a3f-c8869610aa3d</guid>
+            <pubDate>Thu, 10 Dec 2015 10:36:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Welcome to The Quantum Dojo]]></title>
-            <description><![CDATA[<article><h1>Welcome to The Quantum Dojo</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a576d315278f875fb689474be0ec8341e10f1fae.jpg"></article>]]></description>
-            <link>undefinedwelcome-to-the-quantum-dojo/index.html</link>
+            <description><![CDATA[<article><h1>Welcome to The Quantum Dojo</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/070d2d2825b293c2e92cf004b270610568f0a192.jpg"></article>]]></description>
+            <link>https://thegrid.ai/the-quantum-dojo/welcome-to-the-quantum-dojo/index.html</link>
             <guid isPermaLink="false">3c70bb36-43d4-4457-aa49-8f0082677fc8</guid>
             <pubDate>Thu, 10 Dec 2015 10:28:01 GMT</pubDate>
         </item>
