@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-10T10:28:01.573Z'
-dateModified: '2015-12-10T10:27:43.278Z'
+datePublished: '2015-12-14T13:40:10.033Z'
+dateModified: '2015-12-14T13:40:07.571Z'
 title: Welcome to The Quantum Dojo
 author: []
+sourcePath: _posts/2015-12-10-welcome-to-the-quantum-dojo.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-10-welcome-to-the-quantum-dojo.md
-published: true
 url: welcome-to-the-quantum-dojo/index.html
 _type: Article
 
