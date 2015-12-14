@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-14T13:40:10.033Z'
-dateModified: '2015-12-14T13:40:07.571Z'
+datePublished: '2015-12-14T13:41:43.117Z'
+dateModified: '2015-12-14T13:41:41.523Z'
 title: Welcome to The Quantum Dojo
 author: []
 sourcePath: _posts/2015-12-10-welcome-to-the-quantum-dojo.md
