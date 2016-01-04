@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-04T10:03:57.747Z'
-dateModified: '2016-01-04T10:03:42.932Z'
+datePublished: '2016-01-04T10:59:07.836Z'
+dateModified: '2016-01-04T10:58:58.799Z'
 title: "Success mindset for life\_"
 author: []
+sourcePath: _posts/2016-01-04-success-mindset-for-life.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-04-success-mindset-for-life.md
-published: true
 url: success-mindset-for-life/index.html
 _type: Article
 
@@ -84,4 +84,3 @@ Choose with care and poise what's coming in to your mind whilst deliberately tak
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/893ff1d8-e3b5-43f7-820a-849aa83d6577.jpg)
 
 Enjoy practicing The Ways of the Enlightened Warrior and in Part two we will explore more maxims whilst bringing them all together to form a road map you can use in life, business and your ongoing journey in sharing your gifts with the world.
-null
