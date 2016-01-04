@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-04T10:59:07.836Z'
-dateModified: '2016-01-04T10:58:58.799Z'
+datePublished: '2016-01-04T11:48:39.345Z'
+dateModified: '2016-01-04T11:48:38.036Z'
 title: "Success mindset for life\_"
 author: []
 sourcePath: _posts/2016-01-04-success-mindset-for-life.md
