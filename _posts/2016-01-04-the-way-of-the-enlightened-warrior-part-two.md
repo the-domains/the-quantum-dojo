@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-04T14:06:56.996Z'
-dateModified: '2016-01-04T14:06:51.599Z'
+datePublished: '2016-01-04T14:09:55.198Z'
+dateModified: '2016-01-04T14:09:51.396Z'
 title: The Way of the Enlightened Warrior – part two
 author: []
 sourcePath: _posts/2016-01-04-the-way-of-the-enlightened-warrior-part-two.md
@@ -24,7 +24,7 @@ _type: Article
 ---
 by Annette Khepri
 
-Welcome to part two where we are continuing on from last month's part one where we delved in to the world of the enlightened warrior mindset and explored some of the mindsets tips and insights that you can use daily as part of your ongoing development in success mindset.
+Welcome to part two where we are continuing on from the last article where we delved in to the world of the enlightened warrior mindset and explored some of the mindsets tips and insights that you can use daily as part of your ongoing development in success mindset.
 
 If you have been practicing any of the Warrior Mindset Tips from part one, you may have noticed some interesting patterns, behaviours or occurrences happening around you.Often when you are becoming more conscious of how you think, of how your thoughts affect your whole being and how emotions can take hold and literally make or break a day, shifts in your mindset will start to happen. Sometimes this can be fairly easy and being mindful is a simple thing. However, this isn't always the case, the mind can throw up and out at you an explosion of excuses, various reasons and validations for it's behaviour, thoughts and why you should or shouldn't be thinking or doing something in particular. This is more commonly known as resistance and can be accompanied with denial and sometimes along for the ride self-sabotage or any combination of non-serving and not really useful counterparts. Are they really as bad as we are led to believe or are they simply more lashings of contrast standing out for us to view and deal with if we choose to?
 
