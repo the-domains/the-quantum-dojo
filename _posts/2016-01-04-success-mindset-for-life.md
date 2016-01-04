@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-04T11:48:39.345Z'
-dateModified: '2016-01-04T11:48:38.036Z'
-title: "Success mindset for life\_"
+datePublished: '2016-01-04T13:43:16.371Z'
+dateModified: '2016-01-04T12:52:15.989Z'
+title: The Enlightened Warrior - part one
 author: []
 sourcePath: _posts/2016-01-04-success-mindset-for-life.md
 published: true
@@ -22,11 +22,11 @@ url: success-mindset-for-life/index.html
 _type: Article
 
 ---
-# **Success mindset for life **
+# **The Enlightened Warrior - part one**
 
-by Annette Khepri
+# ****
 
-When we read historically of battles and combat several thousand years ago with emotive, dramatic stories of war, assassins and Dynasties being won and lost in the East and in the forgotten ancient world, we think typically of strong, courageous, fearless and driven warriors and samurai of a bygone era with little in common with the martial arts and indeed life in the present day.
+# hen we read historically of battles and combat several thousand years ago with emotive, dramatic stories of war, assassins and Dynasties being won and lost in the East and in the forgotten ancient world, we think typically of strong, courageous, fearless and driven warriors and samurai of a bygone era with little in common with the martial arts and indeed life in the present day.
 
 However, the practice of the martial arts has long been associated with a warrior mindset with its possible modern comparison of the 'Master' or more loosely a long serving 'Black Belt'. Collectively they are all synonymous with qualities, mental powers and abilities of what could be described as a warrior mindset and as Sun Tzu said in The Art of War; 'Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.'
 
