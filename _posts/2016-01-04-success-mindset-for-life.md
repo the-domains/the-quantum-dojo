@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-04T13:43:16.371Z'
-dateModified: '2016-01-04T12:52:15.989Z'
+datePublished: '2016-01-04T13:51:12.276Z'
+dateModified: '2016-01-04T13:51:09.291Z'
 title: The Enlightened Warrior - part one
 author: []
 sourcePath: _posts/2016-01-04-success-mindset-for-life.md
@@ -24,13 +24,27 @@ _type: Article
 ---
 # **The Enlightened Warrior - part one**
 
-# ****
+When we read historically of battles and 
+combat several thousand years ago with emotive, dramatic stories of war,
+assassins and Dynasties being won and lost in the East and in the 
+forgotten ancient world, we think typically of strong, courageous, 
+fearless and driven warriors and samurai of a bygone era with little in 
+common with the martial arts and indeed life in the present day.
 
-# hen we read historically of battles and combat several thousand years ago with emotive, dramatic stories of war, assassins and Dynasties being won and lost in the East and in the forgotten ancient world, we think typically of strong, courageous, fearless and driven warriors and samurai of a bygone era with little in common with the martial arts and indeed life in the present day.
+However, the practice of the martial arts
+has long been associated with a warrior mindset with its possible 
+modern comparison of the 'Master' or more loosely a long serving 'Black 
+Belt'. Collectively they are all synonymous with qualities, mental 
+powers and abilities of what could be described as a warrior mindset and
+as Sun Tzu said in The Art of War; **'Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.' **
 
-However, the practice of the martial arts has long been associated with a warrior mindset with its possible modern comparison of the 'Master' or more loosely a long serving 'Black Belt'. Collectively they are all synonymous with qualities, mental powers and abilities of what could be described as a warrior mindset and as Sun Tzu said in The Art of War; 'Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.'
-
-The warriors' mindset skills were learned through rigorous physical, mental and spiritual practice with precise, disciplined tutelage by students fully immersed on a full time basis to learn them on every level over long periods. They were carefully carved over time and are still today not something we can just simply plug in and magically have, although they most certainly can be learned, honed and gained by choice, commitment and perseverance.
+The warriors' mindset skills were learned
+through rigorous physical, mental and spiritual practice with precise, 
+disciplined tutelage by students fully immersed on a full time basis to 
+learn them on every level over long periods. They were carefully carved 
+over time and are still today not something we can just simply plug in 
+and magically have, although they most certainly can be learned, honed 
+and gained by choice, commitment and perseverance.
 
 Intrinsically within the martial arts of today, there are vital characteristics, methodology and skill sets that we still use, teach and practice.
 
