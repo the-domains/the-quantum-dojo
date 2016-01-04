@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-04T13:51:12.276Z'
-dateModified: '2016-01-04T13:51:09.291Z'
+datePublished: '2016-01-04T14:10:37.670Z'
+dateModified: '2016-01-04T14:10:32.069Z'
 title: The Enlightened Warrior - part one
 author: []
 sourcePath: _posts/2016-01-04-success-mindset-for-life.md
@@ -23,6 +23,8 @@ _type: Article
 
 ---
 # **The Enlightened Warrior - part one**
+
+by Annette Khepri 
 
 When we read historically of battles and 
 combat several thousand years ago with emotive, dramatic stories of war,
