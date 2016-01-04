@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-04T10:22:36.695Z'
-dateModified: '2016-01-04T10:22:18.069Z'
+datePublished: '2016-01-04T10:59:45.440Z'
+dateModified: '2016-01-04T10:59:42.185Z'
 title: The Way of the Enlightened Warrior – part two
 author: []
 authors: []
@@ -73,4 +73,5 @@ Whilst weaving your own daily way of working with the wisdom of the enlightened 
 Your own path is yours to walk however you wish, and its fine balance of yin and yang will be effervescently adding zest and vigour to your choices, decisions and opportunities. This maxim outlined by Paolo Coelho is a very useful notion to remember: 'The two worst strategic mistakes to make are acting prematurely and letting an opportunity slip; to avoid this, the warrior treats each situation as if it were unique and never resorts to formula, recipes or other people's opinions.'
 
 Always walk in your own truth, in alignment of who you are and use your enlightened warrior mindset to help give you the strength and courage to shine your very brightest message. Live with curious and child-like wonder and to keep on going, no matter what curveballs, interesting detours or challenges the Universe may bring you. You have the tools, wisdom and insights within and your journey is perfectly unfolding every step of the way, so enjoy it!
+null
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/195eaaa6-b980-4e05-8f35-f8ec9eb95714.jpg)
