@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-14T13:41:43.117Z'
-dateModified: '2015-12-14T13:41:41.523Z'
+datePublished: '2016-01-04T10:55:37.197Z'
+dateModified: '2016-01-04T10:55:22.105Z'
 title: Welcome to The Quantum Dojo
 author: []
 sourcePath: _posts/2015-12-10-welcome-to-the-quantum-dojo.md
