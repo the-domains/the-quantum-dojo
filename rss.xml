@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Conscious Leadership Evolution - Rebel Against Mediocrity]]></title>
-        <description><![CDATA[Conscious Leadership Evolution - Rebel Against Mediocrity]]></description>
+        <title><![CDATA[The Quantum Dojo : Conscious Leadership Evolution : Rebel Against Mediocrity]]></title>
+        <description><![CDATA[The Quantum Dojo : Conscious Leadership Evolution : Rebel Against Mediocrity]]></description>
         <link>https://thegrid.ai/the-quantum-dojo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jan 2016 10:04:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jan 2016 10:24:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-quantum-dojo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3405b00e-28bc-4f1c-ad0c-ac789f94fd61.jpg">]]></description>
+            <link>https://thegrid.ai/the-quantum-dojo/94db604e-24d4-4664-8118-7cab0c8149f0/index.html</link>
+            <guid isPermaLink="false">94db604e-24d4-4664-8118-7cab0c8149f0</guid>
+            <pubDate>Mon, 04 Jan 2016 10:24:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Way of the Enlightened Warrior – part two]]></title>
+            <description><![CDATA[<article><h1>The Way of the Enlightened Warrior – part two</h1><p>Success Mindset for Life</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8487fb4ee130aa34b525dff24b16fa3916268ae3.jpg"></article>]]></description>
+            <link>https://thegrid.ai/the-quantum-dojo/the-way-of-the-enlightened-warrior-part-two/index.html</link>
+            <guid isPermaLink="false">4a0b12ed-4365-41cd-b769-217bbdeceac7</guid>
+            <pubDate>Mon, 04 Jan 2016 10:22:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Success mindset for life ]]></title>
             <description><![CDATA[<article><h1>Success mindset for life </h1><p>by Annette Khepri</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d9dac0719ac5fd1a588a47b3aaf203c9247df13d.jpg"></article>]]></description>
@@ -65,13 +79,6 @@ that in yours?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/86
             <link>https://thegrid.ai/the-quantum-dojo/855ceed3-c88a-43a8-951b-805091a9d9d1/index.html</link>
             <guid isPermaLink="false">855ceed3-c88a-43a8-951b-805091a9d9d1</guid>
             <pubDate>Mon, 14 Dec 2015 12:29:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Welcome to The Quantum Dojo]]></title>
-            <description><![CDATA[<article><h1>Welcome to The Quantum Dojo</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d5afbf9b7b95ad84b1b4b779d3e2a08546e725f3.jpg"></article>]]></description>
-            <link>https://thegrid.ai/the-quantum-dojo/welcome-to-the-quantum-dojo/index.html</link>
-            <guid isPermaLink="false">3c70bb36-43d4-4457-aa49-8f0082677fc8</guid>
-            <pubDate>Mon, 14 Dec 2015 13:41:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
