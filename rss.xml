@@ -4,7 +4,7 @@
         <description><![CDATA[The Quantum Dojo]]></description>
         <link>https://thegrid.ai/the-quantum-dojo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 17:57:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2016 17:57:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-quantum-dojo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Enlightened Warrior - part one]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/the-quantum-dojo/success-mindset-for-life/index.html</link>
             <guid isPermaLink="false">8437fb90-9f8c-4480-85de-727ade01f862</guid>
             <pubDate>Mon, 04 Jan 2016 14:10:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Way of the Enlightened Warrior – part two]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/195eaaa6-b980-4e05-8f35-f8ec9eb95714.jpg">]]></description>
+            <link>https://thegrid.ai/the-quantum-dojo/the-way-of-the-enlightened-warrior-part-two/index.html</link>
+            <guid isPermaLink="false">4a0b12ed-4365-41cd-b769-217bbdeceac7</guid>
+            <pubDate>Mon, 04 Jan 2016 14:09:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,6 +33,13 @@
             <link>https://thegrid.ai/the-quantum-dojo/9e50ba71-5bd2-4b35-9caa-e786c4a17465/index.html</link>
             <guid isPermaLink="false">9e50ba71-5bd2-4b35-9caa-e786c4a17465</guid>
             <pubDate>Mon, 04 Jan 2016 13:54:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc809c78-b794-4f13-9564-48cfdc5aaba3.jpg">]]></description>
+            <link>https://thegrid.ai/the-quantum-dojo/940417c6-842a-4dd2-b0a2-9f32d633ac45/index.html</link>
+            <guid isPermaLink="false">940417c6-842a-4dd2-b0a2-9f32d633ac45</guid>
+            <pubDate>Mon, 04 Jan 2016 10:27:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
